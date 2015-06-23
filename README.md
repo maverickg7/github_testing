@@ -1,1 +1,1 @@
-Teach Git
+Teach Git today 
